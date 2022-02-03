@@ -57,8 +57,6 @@ body {
 .logo {
     animation: logo 4s ease-in-out infinite alternate;
     margin-bottom: 1rem;
-    width: 1000;
-    height: 464;
 }
 
 .logo img {
