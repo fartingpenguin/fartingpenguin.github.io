@@ -36,7 +36,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 481px;
+    min-height: 603px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -55,7 +55,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 367px;
+    min-height: 485px;
   }
 
   .u-section-1 .u-image-1 {
@@ -79,7 +79,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 653px;
+    min-height: 778px;
   }
 
   .u-section-1 .u-image-1 {
@@ -99,7 +99,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 446px;
+    min-height: 564px;
   }
 
   .u-section-1 .u-image-1 {
@@ -222,8 +222,8 @@
 
 .u-section-3 .u-image-1 {
   min-height: 610px;
-  background-image: url("images/ChinatownComplex31.jpg");
-  background-position: 100% 100%;
+  background-image: url("images/hawker-centre-bendemeer-covid-19-safe-distancing-queue.jpg");
+  background-position: 100% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -338,6 +338,7 @@
 }
 
 .u-section-4 .u-text-1 {
+  font-weight: 700;
   margin: 118px auto 0 0;
 }
 
@@ -358,7 +359,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 481px;
+    min-height: 603px;
   }
 
   .u-section-4 .u-layout-wrap-1 {
@@ -377,7 +378,7 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 367px;
+    min-height: 485px;
   }
 
   .u-section-4 .u-layout-cell-1 {
@@ -401,7 +402,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 653px;
+    min-height: 778px;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -421,7 +422,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 446px;
+    min-height: 564px;
   }
 
   .u-section-4 .u-image-1 {
